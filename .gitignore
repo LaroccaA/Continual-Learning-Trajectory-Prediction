@@ -1,1 +1,63 @@
-/venv
+# Data files (large, regenerable, not committed)
+data/
+*.parquet
+*.csv.zst
+*.npz
+
+# Virtual environments & caches
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb.checkpoints/
+
+# Per-day checkpoints (regenerable, large)
+checkpoints_v2/
+*.pth
+*_prep.pkl
+
+# Large intermediate artifacts
+cache_sequenze/
+previsioni_classificatore/
+models_v2/
+
+# Environment & secrets
+.env
+*.pem
+*.key
+id_rsa*
+*credentials*.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# OpenCode / agent config (never committed)
+AGENTS.md
+agents.md
+CLAUDE.md
+opencode.json
+.opencode/
+
+# Logs (keep only final run logs in repo)
+*.log
+!run_logs_v2/
+!results_v2/*.log
+
+# Archives
+*.tar.gz
+*.zip
+
+# Temporary files
+*.tmp
+*.temp
+*~
