@@ -1,0 +1,9 @@
+cartella,righe_totali,recall_indefinite,precision_indefinite
+analisi_cbrs_binario_b20000,207,0,0
+analisi_ewc,207,0,1
+analisi_cbrs_binario_b500,621,0,22
+analisi_cbrs_attacco,621,0,77
+analisi_reservoir_puro,621,0,33
+analisi_lower_bound,207,0,72
+analisi_cbrs_multiclasse_b10000,414,0,28
+analisi_cbrs_multiclasse_b20000,414,0,36

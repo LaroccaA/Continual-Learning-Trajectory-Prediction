@@ -1,0 +1,46 @@
+{
+  "esperimento": "upper_bound_completo",
+  "CLF_F1_finale": 0.9581,
+  "CLF_precision_finale": 0.9697,
+  "CLF_recall_finale": 0.9467,
+  "CLF_accuracy_finale": 0.9929,
+  "per_attacco": {
+    "teleport": {
+      "f1": 0.9131,
+      "recall": 0.9648,
+      "precision": 0.8667,
+      "accuracy": 0.9967
+    },
+    "speed_spoofing": {
+      "f1": 0.9087,
+      "recall": 0.9308,
+      "precision": 0.8876,
+      "accuracy": 0.9957
+    },
+    "ghost_ship": {
+      "f1": 0.8502,
+      "recall": 0.9067,
+      "precision": 0.8003,
+      "accuracy": 0.9962
+    },
+    "silent_drift": {
+      "f1": 0.9431,
+      "recall": 0.9981,
+      "precision": 0.8938,
+      "accuracy": 0.9973
+    },
+    "course_spoofing": {
+      "f1": 0.8693,
+      "recall": 0.9041,
+      "precision": 0.837,
+      "accuracy": 0.9958
+    }
+  },
+  "n_train": 65621112,
+  "n_val": 9374445,
+  "n_test": 18748890,
+  "n_totale": 93744447,
+  "epoche": 15,
+  "batch_size": 1024,
+  "lr": 0.001
+}
