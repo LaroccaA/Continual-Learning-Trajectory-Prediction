@@ -1,0 +1,92 @@
+[13:54:45] Avvio run_id=SWEEP_BUFFER3000 method=BR giorni=30
+[13:56:16]   Giorno 0 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[14:03:21]   Giorno 0 — valutazione su 1 giorni
+[14:03:24]   RAM del processo dopo il giorno 0: 9.8 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[14:05:19]   Giorno 1 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[14:14:32]   Giorno 1 — valutazione su 2 giorni
+[14:14:38]   RAM del processo dopo il giorno 1: 10.5 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[14:16:32]   Giorno 2 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[14:25:46]   Giorno 2 — valutazione su 3 giorni
+[14:25:54]   RAM del processo dopo il giorno 2: 10.9 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[14:27:55]   Giorno 3 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[14:37:42]   Giorno 3 — valutazione su 4 giorni
+[14:37:53]   RAM del processo dopo il giorno 3: 11.5 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[14:39:54]   Giorno 4 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[14:49:42]   Giorno 4 — valutazione su 5 giorni
+[14:49:56]   RAM del processo dopo il giorno 4: 12.0 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[14:51:51]   Giorno 5 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[15:01:13]   Giorno 5 — valutazione su 6 giorni
+[15:01:29]   RAM del processo dopo il giorno 5: 12.1 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[15:03:30]   Giorno 6 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[15:13:21]   Giorno 6 — valutazione su 7 giorni
+[15:13:41]   RAM del processo dopo il giorno 6: 12.7 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[15:15:28]   Giorno 7 — quiete (nessun attacco in addestramento)
+[15:24:10]   Giorno 7 — valutazione su 8 giorni
+[15:24:32]   RAM del processo dopo il giorno 7: 12.5 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[15:26:24]   Giorno 8 — quiete (nessun attacco in addestramento)
+[15:35:24]   Giorno 8 — valutazione su 9 giorni
+[15:35:49]   RAM del processo dopo il giorno 8: 12.9 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[15:37:42]   Giorno 9 — attacchi in addestramento: {'teleport': 0.1}
+[15:46:40]   Giorno 9 — valutazione su 10 giorni
+[15:47:07]   RAM del processo dopo il giorno 9: 13.0 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[15:49:07]   Giorno 10 — attacchi in addestramento: {'teleport': 0.1}
+[15:58:40]   Giorno 10 — valutazione su 11 giorni
+[15:59:10]   RAM del processo dopo il giorno 10: 13.7 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[16:01:12]   Giorno 11 — attacchi in addestramento: {'teleport': 0.1}
+[16:10:49]   Giorno 11 — valutazione su 12 giorni
+[16:11:22]   RAM del processo dopo il giorno 11: 14.1 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[16:13:30]   Giorno 12 — attacchi in addestramento: {'teleport': 0.1}
+[16:23:31]   Giorno 12 — valutazione su 13 giorni
+[16:24:07]   RAM del processo dopo il giorno 12: 14.7 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[16:26:28]   Giorno 13 — attacchi in addestramento: {'teleport': 0.1}
+[16:37:38]   Giorno 13 — valutazione su 14 giorni
+[16:38:17]   RAM del processo dopo il giorno 13: 15.9 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[16:40:20]   Giorno 14 — attacchi in addestramento: {'teleport': 0.1}
+[16:49:52]   Giorno 14 — valutazione su 15 giorni
+[16:50:33]   RAM del processo dopo il giorno 14: 15.6 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[16:52:32]   Giorno 15 — quiete (nessun attacco in addestramento)
+[17:01:46]   Giorno 15 — valutazione su 16 giorni
+[17:02:31]   RAM del processo dopo il giorno 15: 15.7 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[17:04:33]   Giorno 16 — quiete (nessun attacco in addestramento)
+[17:13:48]   Giorno 16 — valutazione su 17 giorni
+[17:14:34]   RAM del processo dopo il giorno 16: 16.0 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[17:16:43]   Giorno 17 — quiete (nessun attacco in addestramento)
+[17:26:18]   Giorno 17 — valutazione su 18 giorni
+[17:27:08]   RAM del processo dopo il giorno 17: 16.4 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[17:29:11]   Giorno 18 — attacchi in addestramento: {'silent_drift': 0.1}
+[17:38:11]   Giorno 18 — valutazione su 19 giorni
+[17:39:04]   RAM del processo dopo il giorno 18: 16.5 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[17:40:56]   Giorno 19 — attacchi in addestramento: {'silent_drift': 0.1}
+[17:49:01]   Giorno 19 — valutazione su 20 giorni
+[17:49:59]   RAM del processo dopo il giorno 19: 16.4 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[17:51:42]   Giorno 20 — attacchi in addestramento: {'silent_drift': 0.1}
+[17:59:14]   Giorno 20 — valutazione su 21 giorni
+[18:00:14]   RAM del processo dopo il giorno 20: 16.4 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[18:02:01]   Giorno 21 — attacchi in addestramento: {'silent_drift': 0.1}
+[18:09:50]   Giorno 21 — valutazione su 22 giorni
+[18:10:52]   RAM del processo dopo il giorno 21: 16.7 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[18:12:46]   Giorno 22 — attacchi in addestramento: {'silent_drift': 0.1}
+[18:21:07]   Giorno 22 — valutazione su 23 giorni
+[18:22:09]   RAM del processo dopo il giorno 22: 17.2 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[18:24:09]   Giorno 23 — attacchi in addestramento: {'silent_drift': 0.1}
+[18:32:56]   Giorno 23 — valutazione su 24 giorni
+[18:34:02]   RAM del processo dopo il giorno 23: 17.6 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[18:36:03]   Giorno 24 — attacchi in addestramento: {'silent_drift': 0.1}
+[18:45:01]   Giorno 24 — valutazione su 25 giorni
+[18:46:10]   RAM del processo dopo il giorno 24: 18.0 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[18:48:03]   Giorno 25 — attacchi in addestramento: {'silent_drift': 0.1}
+[18:56:19]   Giorno 25 — valutazione su 26 giorni
+[18:57:31]   RAM del processo dopo il giorno 25: 18.0 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[18:59:29]   Giorno 26 — attacchi in addestramento: {'silent_drift': 0.1}
+[19:08:04]   Giorno 26 — valutazione su 27 giorni
+[19:09:18]   RAM del processo dopo il giorno 26: 18.4 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[19:11:30]   Giorno 27 — attacchi in addestramento: {'silent_drift': 0.1}
+[19:21:16]   Giorno 27 — valutazione su 28 giorni
+[19:22:33]   RAM del processo dopo il giorno 27: 19.3 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[19:25:00]   Giorno 28 — quiete (nessun attacco in addestramento)
+[19:35:39]   Giorno 28 — valutazione su 29 giorni
+[19:36:59]   RAM del processo dopo il giorno 28: 20.3 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[19:39:25]   Giorno 29 — quiete (nessun attacco in addestramento)
+[19:49:40]   Giorno 29 — valutazione su 30 giorni
+[19:50:59]   RAM del processo dopo il giorno 29: 20.6 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[19:50:59] Run completata: {'run_id': 'SWEEP_BUFFER3000', 'method': 'BR', 'reg_lr': 0.001, 'reg_hidden_size': 32, 'reg_num_layers': 2, 'reg_buffer_size': 500, 'reg_ewc_lambda': 50.0, 'reg_batch_size': 1024, 'reg_epochs': 5, 'clf_epochs': 20, 'seq_len': 30, 'REG_BWT': 0.303896, 'REG_FM': 0.303896, 'REG_FWT': -0.013013, 'REG_MSE_finale': 0.299938, 'REG_ADE_finale_metri': 193.49908101308563, 'clf_lr': 0.001, 'clf_hidden_size': 32, 'clf_num_layers': 2, 'clf_buffer_size': 3000, 'clf_ewc_lambda': 50.0, 'clf_batch_size': 1024, 'CLF_BWT': -0.130112, 'CLF_FM': 0.142069, 'CLF_FWT': -0.083802, 'CLF_F1_finale': 0.761069}

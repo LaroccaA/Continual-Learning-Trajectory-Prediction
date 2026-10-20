@@ -1,0 +1,9 @@
+cartella,righe_totali,recall_indefinite,precision_indefinite
+analisi_BUFFER_GRANDE_20000,207,0,0
+analisi_EWC_CORRETTO,207,0,1
+analisi_FINAL_CBRS,621,0,22
+analisi_FINAL_CBRS_ATTACCO,621,0,77
+analisi_FINAL_NUOVO,621,0,33
+analisi_LOWER_BOUND,207,0,72
+analisi_VERIFICATO_6VIE,414,0,28
+analisi_VERIFICATO_6VIE_20000,414,0,36

@@ -1,0 +1,20 @@
+[14:25:58] Avvio run_id=VERIFICA_6VIE method=BR giorni=5
+[14:27:17]   Giorno 0 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[14:33:30]   Giorno 0 — valutazione su 1 giorni
+[14:33:33]   RAM del processo dopo il giorno 0: 7.8 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[14:34:54]   Giorno 1 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[14:41:36]   Giorno 1 — valutazione su 2 giorni
+[14:41:42]   RAM del processo dopo il giorno 1: 8.6 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[14:43:04]   Giorno 2 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[14:49:41]   Giorno 2 — valutazione su 3 giorni
+[14:49:48]   RAM del processo dopo il giorno 2: 9.0 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[14:51:14]   Giorno 3 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[14:58:24]   Giorno 3 — valutazione su 4 giorni
+[14:58:35]   RAM del processo dopo il giorno 3: 9.7 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[15:00:02]   Giorno 4 — attacchi in addestramento: {'speed_spoofing': 0.1}
+[15:07:10]   Giorno 4 — valutazione su 5 giorni
+[15:07:24]   RAM del processo dopo il giorno 4: 10.2 GB (stima teorica a fine run: ~41 GB su 104 disponibili)
+[15:07:24] VERIFICA EMPIRICA composizione finale del buffer_clf:
+[15:07:24]     clean           :   501 slot (50.1%)
+[15:07:24]     speed_spoofing  :   499 slot (49.9%)
+[15:07:24] Run completata: {'run_id': 'VERIFICA_6VIE', 'method': 'BR', 'reg_lr': 0.001, 'reg_hidden_size': 32, 'reg_num_layers': 2, 'reg_buffer_size': 500, 'reg_ewc_lambda': 50.0, 'reg_batch_size': 1024, 'reg_epochs': 5, 'clf_epochs': 20, 'seq_len': 30, 'REG_BWT': 1.044475, 'REG_FM': 1.044475, 'REG_FWT': -0.010209, 'REG_MSE_finale': 0.849359, 'REG_ADE_finale_metri': 264.95244854356747, 'clf_lr': 0.001, 'clf_hidden_size': 32, 'clf_num_layers': 2, 'clf_buffer_size': 1000, 'clf_ewc_lambda': 50.0, 'clf_batch_size': 1024, 'CLF_BWT': 0.001105, 'CLF_FM': 0.00103, 'CLF_FWT': 0.006787, 'CLF_F1_finale': 0.967334}
